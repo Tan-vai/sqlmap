@@ -1,6 +1,6 @@
 # Mr. Tan SQL Tool 🔓
 
-A beautiful, colorful SQLMap launcher written in Python — made for hackers by Mr. Tan (Death Cyber Army).
+SQLMap launcher written in Python — made by Mr. Tan (Death Cyber Army).
 
 ## 🚀 Features:
 - Menu driven SQLMap control
