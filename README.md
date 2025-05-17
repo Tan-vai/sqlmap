@@ -9,6 +9,6 @@ SQLMap launcher written in Python — made by Mr. Tan (Death Cyber Army).
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Tan-vai/mr-tan-sqltool.git
-cd mr-tan-sqltool
-dpkg -i mr-tan-sqltool_1.0_all.deb
+git clone https://github.com/Tan-vai/sqlmap.git
+cd sqlmap
+python sqlmap.py -h
